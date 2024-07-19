@@ -1,0 +1,138 @@
+[
+    {
+      "image": "https://cdn.pixabay.com/photo/2017/04/14/07/28/tibetan-bowl-2229455_1280.jpg",
+      "category": "bien_etre",
+      "title": "Week-end chamanique",
+      "description": "Explorez les traditions chamaniques lors d'un week-end immersif.",
+      "date_start": "2024-08-01",
+      "date_end": "2024-08-03",
+      "price": 380
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2018/10/01/13/53/droplet-3716288_1280.jpg",
+      "category": "bien_etre",
+      "title": "Journée bien-être et detox",
+      "description": "Détendez-vous et revitalisez-vous lors d'une journée de detox et de bien-être.",
+      "date_start": "2024-07-10",
+      "date_end": "2024-07-10",
+      "price": 80
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/06/19/14/20/cat-814952_1280.jpg",
+      "category": "bien_etre",
+      "title": "Yoga avec des animaux",
+      "description": "Pratiquez le yoga entouré d'animaux pour une expérience relaxante et joyeuse.",
+      "date_start": "2024-07-15",
+      "date_end": "2024-07-15",
+      "price" : 25
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/03/16/16/31/dj-7857071_1280.jpg",
+      "category": "musique",
+      "title": "Rave Party",
+      "description": "Plongez dans l'ambiance électrique d'une Rave Party toute la nuit.",
+      "date_start": "2024-08-05",
+      "date_end": "2024-08-06",
+      "price": 30
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_1280.jpg",
+      "category": "musique",
+      "title": "Concert immersif 360°",
+      "description": "Vivez une expérience musicale immersive à 360 degrés avec des effets visuels époustouflants.",
+      "date_start": "2024-08-15",
+      "date_end": "2024-08-15",
+      "price": 25
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2019/11/23/17/24/video-4647668_1280.jpg",
+      "category": "musique",
+      "title": "Karaoké plein air",
+      "description": "Chantez vos chansons préférées en plein air avec vos amis et profitez de l'ambiance festive.",
+      "date_start": "2024-08-20",
+      "date_end": "2024-08-20",
+      "price": 10
+    },
+    {
+      "image": " https://cdn.pixabay.com/photo/2024/05/25/16/47/mascot-8787420_1280.jpg ",
+      "category": "sportif",
+      "title": "Course d'obstacle déguisée",
+      "description": "Affrontez des obstacles tout en étant déguisé dans cette course ludique et amusante.",
+      "date_start": "2024-09-10",
+      "date_end": "2024-09-10",
+      "price": 45
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/12/08/12/30/bubble-1891638_1280.jpg",
+      "category": "sportif",
+      "title": "Tournoi de bubble soccer",
+      "description": "Participez à un tournoi de soccer en bulle où la compétition est aussi amusante que féroce.",
+      "date_start": "2024-09-15",
+      "date_end": "2024-09-15",
+      "price": 45
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2020/08/16/19/29/surf-5493649_1280.jpg",
+      "category": "sportif",
+      "title": "Surf Camp",
+      "description": ""Participez à un camp de surf pour apprendre à surfer ou perfectionner votre technique dans un cadre idyllique.",
+      "date_start": "2024-09-15",
+      "date_end": "2024-09-17",
+      "price": 420
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2020/02/19/21/49/workshop-4863393_1280.jpg",
+      "category": "creatif",
+      "title": "Atelier de création collective",
+      "description": "Participez à un atelier où chacun apporte sa contribution pour créer une œuvre collective unique.",
+      "date_start": "2024-10-05",
+      "date_end": "2024-10-05",
+      "price": 15
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2019/11/07/20/48/cinema-4609877_1280.jpg",
+      "category": "creatif",
+      "title": "Soirée d'impro théâtrale",
+      "description": "Vivez des moments d'improvisation théâtrale hilarants et captivants lors de cette soirée animée.",
+      "date_start": "2024-10-10",
+      "date_end": "2024-10-10",
+      "price": 10
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/07/12/17/23/activity-8122959_1280.jpg",
+      "category": "creatif",
+      "title": "Atelier graffiti collaboratif",
+      "description": "Exprimez votre créativité en participant à la création d'une fresque graffiti collective.",
+      "date_start": "2024-10-15",
+      "date_end": "2024-10-15",
+      "price": 20
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/06/14/18/22/ai-generated-8063802_1280.jpg",
+      "category": "ludique",
+      "title": "Chasse aux trésors",
+      "description": "Partez à la recherche d'indices et de trésors cachés dans cette aventure ludique et captivante.",
+      "date_start": "2024-11-05",
+      "date_end": "2024-11-05",
+      "price": 33
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2022/06/01/08/57/cocktails-and-mocktails-7235137_1280.jpg",
+      "category": "ludique",
+      "title": "Atelier mixologie",
+      "description": "Apprenez l'art de la mixologie en créant vos propres cocktails dans une ambiance conviviale.",
+      "date_start": "2024-11-10",
+      "date_end": "2024-11-10",
+      "price": 28
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/01/22/11/50/live-escape-game-1155620_1280.jpg",
+      "category": "ludique",
+      "title": "Escape game mobile",
+      "description": "Vivez l'expérience immersive d'un escape game où le jeu se déplace vers vous, où que vous soyez.",
+      "date_start": "2024-11-15",
+      "date_end": "2024-11-15",
+      "price": 18
+    }
+    ]
+    
